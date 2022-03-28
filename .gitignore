@@ -1,6 +1,8 @@
 *.class
 *.log
 
+.metals/
+.vscode/
 .exercism/
 project/
 target/
