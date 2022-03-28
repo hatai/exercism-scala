@@ -3,6 +3,7 @@
 
 .metals/
 .vscode/
+.bloop/
 .exercism/
 project/
 target/
